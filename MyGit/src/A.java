@@ -5,6 +5,7 @@ public class A {
 		System.out.println("Hi");
 		B b = new B();
 		C c = new C();
+		System.out.println("bye");
 
 	}
 
